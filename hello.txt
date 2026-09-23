@@ -1,1 +1,3 @@
 Hello Git!
+I made some modifications to this file
+I hope it works smoothly
